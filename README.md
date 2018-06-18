@@ -6,3 +6,5 @@ Color them is playing a key role inside any application, it helps user to recogn
 Some time ago I visited a page from MSDN Forum which is about developing a screen pixel color reader similar to this one How do I test the color of a certain pixel or point.
 
 With the help of it I have developed following Color Picker Application which will capture a screen pixel and copies the color code to Clipboard. 
+
+![sample]()
