@@ -1,0 +1,8 @@
+c:\users\rangasu\documents\visual studio 2012\Projects\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe.config
+c:\users\rangasu\documents\visual studio 2012\Projects\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe
+c:\users\rangasu\documents\visual studio 2012\Projects\ColorPicker\ColorPicker\bin\Debug\ColorPicker.pdb
+c:\users\rangasu\documents\visual studio 2012\Projects\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Form1.resources
+c:\users\rangasu\documents\visual studio 2012\Projects\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+c:\users\rangasu\documents\visual studio 2012\Projects\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+c:\users\rangasu\documents\visual studio 2012\Projects\ColorPicker\ColorPicker\obj\Debug\ColorPicker.exe
+c:\users\rangasu\documents\visual studio 2012\Projects\ColorPicker\ColorPicker\obj\Debug\ColorPicker.pdb
